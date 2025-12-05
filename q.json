@@ -19,14 +19,15 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/5.23.3/Questionable-5.23.3.zip",
+    "DownloadLinkInstall": "https://github.com/PunishXIV/Questionable/releases/download/v6.5.0.8/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/5.23.3/Questionable-5.23.3.zip",
+    "DownloadLinkUpdate": "https://github.com/PunishXIV/Questionable/releases/download/v6.5.0.8/latest.zip",
     "DownloadCount": 199845,
     "LastUpdate": "1764000171"
   }
 ]
+
 
 
 
