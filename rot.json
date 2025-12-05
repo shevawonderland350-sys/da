@@ -33,29 +33,5 @@
     "TestingAssemblyVersion": "7.3.0.49",
     "Changelog": "## What's Changed\r\n* Hotfix for Ninja Quest targets by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1083\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.8.17...7.3.8.18",
     "DownloadCount": 1904661
-  },
-{
-    "Author": "Liza Carvelli & various contributors",
-    "Name": "Questionable",
-    "Punchline": "A tiny quest helper plugin.",
-    "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
-    "Tags": [
-      "quests",
-      "msq"
-    ],
-    "InternalName": "Questionable",
-    "RepoUrl": "https://github.com/PunishXIV/Questionable",
-    "DownloadCount": 146330,
-    "LastUpdate": 1764921639,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/archive/refs/tags/5.23.2.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/archive/refs/tags/5.23.2.zip",
-    "AssemblyVersion": "13.39.106.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "12",
-    "Changelog": "- ARR and moogle dailies by alydev\n- Minor change to start of 1194-Primal Nature by Kiarra",
-    "TestingAssemblyVersion": "6.23.16.1",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.23.16.1/testing.zip",
-    "TestingDalamudApiLevel": "12",
-    "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png"
-  },
+  }
 ]
