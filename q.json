@@ -1,6 +1,5 @@
 [
-  {
-     "Author": "Liza Carvelli & various contributors",
+    "Author": "Liza Carvelli & various contributors",
     "Name": "Questionable",
     "Punchline": "A tiny quest helper plugin.",
     "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
@@ -13,7 +12,7 @@
     "LastUpdate": 1764921639,
     "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/archive/refs/tags/5.23.3.zip",
     "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/archive/refs/tags/5.23.3.zip",
-    "AssemblyVersion": "13.39.106.0",
+    "AssemblyVersion": "5.23.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "Changelog": "- ARR and moogle dailies by alydev\n- Minor change to start of 1194-Primal Nature by Kiarra",
@@ -22,4 +21,4 @@
     "TestingDalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png"
   }
-]
+ ]
