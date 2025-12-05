@@ -12,15 +12,16 @@
     "RepoUrl": "https://github.com/PunishXIV/Questionable",
     "DownloadCount": 146657,
     "LastUpdate": 1764921639,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/94/Questionable/versions/13.39.106.0/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/94/Questionable/versions/13.39.106.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/shevawonderland350-sys/da/releases/download/1/Questionable-5.23.3.2.zip",
+    "DownloadLinkUpdate": "https://github.com/shevawonderland350-sys/da/releases/download/1/Questionable-5.23.3.2.zip",
     "AssemblyVersion": "13.39.106.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "13",
     "Changelog": "- ARR and moogle dailies by alydev\n- Minor change to start of 1194-Primal Nature by Kiarra",
-    "TestingAssemblyVersion": "6.23.16.1",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/94/Questionable/versions/6.23.16.1/testing.zip",
-    "TestingDalamudApiLevel": "13",
+    "TestingAssemblyVersion": "5.23.3.2",
+    "DownloadLinkTesting": "https://github.com/shevawonderland350-sys/da/releases/download/1/Questionable-5.23.3.2.zip",
+    "TestingDalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png"
   }
 ]
+
