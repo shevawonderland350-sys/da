@@ -10,15 +10,16 @@
     "InternalName": "Questionable",
     "DownloadCount": 146330,
     "LastUpdate": 1764921639,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/archive/refs/tags/5.23.3.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/archive/refs/tags/5.23.3.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/5.23.3/Questionable-5.23.3.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/5.23.3/Questionable-5.23.3.zip",
     "AssemblyVersion": "5.23.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "Changelog": "- ARR and moogle dailies by alydev\n- Minor change to start of 1194-Primal Nature by Kiarra",
     "TestingAssemblyVersion": "6.23.16.1",
-    "DownloadLinkTesting": "https://github.com/decorwdyun/Questionable/archive/refs/tags/5.23.3.zip",
+    "DownloadLinkTesting": "https://github.com/decorwdyun/Questionable/releases/download/5.23.3/Questionable-5.23.3.zip",
     "TestingDalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png"
   }
  ]
+
