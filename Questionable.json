@@ -12,7 +12,7 @@
       "自动",
       "主线任务"
     ],
-    "Changelog":??,
+    "Changelog":None,
     "InternalName": "Questionable",
     "AssemblyVersion": "5.23.3",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
@@ -27,3 +27,4 @@
     "LastUpdate": "1764000171"
   }
 ]
+
